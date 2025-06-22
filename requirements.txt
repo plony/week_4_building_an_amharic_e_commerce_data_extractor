@@ -1,0 +1,4 @@
+telethon==1.34.0
+pandas==2.2.2
+tqdm==4.66.4 # For progress bars during data processing
+pillow==10.3.0 # For image processing (though we only download here)
